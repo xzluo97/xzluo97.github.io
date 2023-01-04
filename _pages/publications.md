@@ -12,8 +12,8 @@ author_profile: true
 ## Journal Articles
 
 - **Xinzhe Luo**, and Xiahai Zhuang*: "$\mathcal {X} $-Metric: An N-Dimensional Information-Theoretic Framework for Groupwise Registration and Deep Combined Computing." *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2022). ([Link](https://ieeexplore.ieee.org/abstract/document/9965747/), [Code](https://github.com/xzluo97/X-metric))
-- Xiahai Zhuang, Jiahang Xu, **Xinzhe Luo**, …, Lei Li: "Cardiac segmentation on late gadolinium enhancement MRI: a benchmark study from multi-sequence cardiac MR segmentation challenge." *Medical Image Analysis* 81 (2022): 102528.
-- Dengqiang Jia, **Xinzhe Luo**, Wangbin Ding, Liqin Huang, and Xiahai Zhuang: “SeRN: A Two-Stage Framework of Registration for Semi-Supervised Learning for Medical Images.” Journal of Shanghai Jiaotong University (Science) 27.2 (2022): 176-189.
+- Xiahai Zhuang, Jiahang Xu, **Xinzhe Luo**, …, Lei Li: "Cardiac segmentation on late gadolinium enhancement MRI: a benchmark study from multi-sequence cardiac MR segmentation challenge." *Medical Image Analysis* 81 (2022): 102528. ([Link](https://www.sciencedirect.com/science/article/pii/S136184152200175X))
+- Dengqiang Jia, **Xinzhe Luo**, Wangbin Ding, Liqin Huang, and Xiahai Zhuang: “SeRN: A Two-Stage Framework of Registration for Semi-Supervised Learning for Medical Images.” Journal of Shanghai Jiaotong University (Science) 27.2 (2022): 176-189. ([Link](https://link.springer.com/article/10.1007/s12204-021-2383-4))
 
 ## Conference Papers
 
