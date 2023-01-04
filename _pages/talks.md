@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
 - **[28 Sep, 2022]** Invited talk titled “<u>Medical Image Registration: A Brief Introduction</u>” at the course *DATA630015: Medical Image Analysis (postgrad)* instructed by Prof. Xiahai Zhuang.
 - **[19 Dec, 2021]** Invited talk titled “<u>Mutual-Information Medical Image Registration: Theory and Examples</u>” at the course *DATA630015: Medical Image Analysis (postgrad)* instructed by Prof. Xiahai Zhuang. ([resources, including lecture notes and codes](https://github.com/xzluo97/mutual-information-registration))
