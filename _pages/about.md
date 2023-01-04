@@ -14,5 +14,6 @@ Welcome! This is Xinzhe, currently working toward my PhD degree in statistics wi
 
 ## News
 
-- **[Nov, 2022]** Our paper “$\mathcal{X}$-Metric: An N-Dimensional Information-Theoretic Framework for Groupwise Registration and Deep Combined Computing” has been accepted by **TPAMI**. ([link](https://ieeexplore.ieee.org/abstract/document/9965747/), [code](https://github.com/xzluo97/X-metric))
-- **[July, 2022]** Our paper “Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge” has been accepted by **MedIA**. ([link](https://www.sciencedirect.com/science/article/pii/S136184152200175X))
+- **[Nov, 2022]** Our paper “$\mathcal{X}$-Metric: An N-Dimensional Information-Theoretic Framework for Groupwise Registration and Deep Combined Computing” has been accepted by **TPAMI**. ([Link](https://ieeexplore.ieee.org/abstract/document/9965747/), [Code](https://github.com/xzluo97/X-metric))
+- **[July, 2022]** Our paper “Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge” has been accepted by **MedIA**. ([Link](https://www.sciencedirect.com/science/article/pii/S136184152200175X))
+
