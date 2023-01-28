@@ -24,3 +24,12 @@ Research/Education Experience
 # Honours and Awards
 
 - National Scholarship, 2020
+
+
+
+> “And what it is now that you’ve got to give? What is it that you’ve learned, what you’re able to do?”
+>
+> “I can think. I can wait. I can fast.”
+>
+> — From Herman Hesse’s Siddhartha
+

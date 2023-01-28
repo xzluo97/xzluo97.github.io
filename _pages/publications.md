@@ -27,8 +27,6 @@ author_profile: true
 
 
 
-> “And what it is now that you’ve got to give? What is it that you’ve learned, what you’re able to do?”
+> “The greatest thing a human soul ever does in this world is to see something and tell what it saw in a plain way. Hundreds of people can talk for one who can think, but thousands can think for one who can see. To see clearly is poetry, prophecy and religion, all in one.” 
 >
-> “I can think. I can wait. I can fast.”
->
-> — From Herman Hesse’s Siddhartha
+> — John Ruskin

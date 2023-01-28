@@ -18,7 +18,3 @@ Welcome! This is Xinzhe, currently working toward my PhD degree in statistics wi
 - **[July, 2022]** Our paper “Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge” has been accepted by **MedIA**. ([Link](https://www.sciencedirect.com/science/article/pii/S136184152200175X))
 
 
-
-> “The greatest thing a human soul ever does in this world is to see something and tell what it saw in a plain way. Hundreds of people can talk for one who can think, but thousands can think for one who can see. To see clearly is poetry, prophecy and religion, all in one.” 
->
-> — John Ruskin
