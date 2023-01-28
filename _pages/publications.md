@@ -25,3 +25,14 @@ author_profile: true
 - Xin Wang, **Xinzhe Luo (Co-first author)**, and Xiahai Zhuang: "BInGo: Bayesian intrinsic groupwise registration via explicit hierarchical disentanglement." arXiv preprint arXiv:2206.02377 (2022).
 - Lei Li, Fuping Wu, Sihang Wang, **Xinzhe Luo**, …, Xiahai Zhuang: "MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images." arXiv preprint arXiv:2201.03186 (2022).
 
+
+
+> “And what it is now that you’ve got to give? What is it that you’ve learned, what you’re able to do?”
+>
+> “I can think. I can wait. I can fast.”
+>
+> “That’s everything?”
+>
+> “I believe that’s everything”
+>
+> — From Herman Hesse’s Siddhartha
