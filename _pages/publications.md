@@ -28,8 +28,7 @@ author_profile: true
 
 
 > “And what it is now that you’ve got to give? What is it that you’ve learned, what you’re able to do?”
->“I can think. I can wait. I can fast.”
-> “That’s everything?”
->“I believe that’s everything”
-> 
->— From Herman Hesse’s Siddhartha
+>
+> “I can think. I can wait. I can fast.”
+>
+> — From Herman Hesse’s Siddhartha
