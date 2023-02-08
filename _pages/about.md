@@ -14,7 +14,7 @@ Welcome! This is Xinzhe, currently working toward my PhD degree in statistics wi
 
 ## News
 
+- **[Feb, 2023]** Our paper “BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement” has been accepted by **IPMI 2023**. ([Link](https://arxiv.org/abs/2206.02377))
 - **[Nov, 2022]** Our paper “$\mathcal{X}$-Metric: An N-Dimensional Information-Theoretic Framework for Groupwise Registration and Deep Combined Computing” has been accepted by **TPAMI**. ([Link](https://ieeexplore.ieee.org/abstract/document/9965747/), [Code](https://github.com/xzluo97/X-metric))
 - **[July, 2022]** Our paper “Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge” has been accepted by **MedIA**. ([Link](https://www.sciencedirect.com/science/article/pii/S136184152200175X))
-
 
