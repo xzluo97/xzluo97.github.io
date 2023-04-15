@@ -22,7 +22,7 @@ author_profile: true
 
 ## Preprint
 
-- Xin Wang, **Xinzhe Luo (Co-first author)**, and Xiahai Zhuang: "BInGo: Bayesian intrinsic groupwise registration via explicit hierarchical disentanglement." Information Processing in Medical Imaging (IPMI 2023). ([Link](https://arxiv.org/abs/2206.02377))
+- Xin Wang, **Xinzhe Luo (Co-first author)**, and Xiahai Zhuang: "BInGo: Bayesian intrinsic groupwise registration via explicit hierarchical disentanglement." Information Processing in Medical Imaging (IPMI 2023, **Oral presentation**). ([Link](https://arxiv.org/abs/2206.02377))
 - Lei Li, Fuping Wu, Sihang Wang, **Xinzhe Luo**, …, Xiahai Zhuang: "MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images." arXiv preprint arXiv:2201.03186 (2022).
 
 
