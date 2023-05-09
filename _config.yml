@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinzhe Luo"
 title_separator          : "-"
 name                     : &name "Xinzhe Luo"
-description              : &description "PhD student at Fudan University"
+description              : &description "PhD Candidate at Fudan University"
 url                      : https://xzluo97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzluo97.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinzhe Luo"
   avatar           : "profile.jpg"
-  bio              : "PhD student in statistics at Fudan University"
+  bio              : "PhD Candidate in Statistics at Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
