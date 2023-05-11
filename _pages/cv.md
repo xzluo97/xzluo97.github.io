@@ -11,9 +11,9 @@ redirect_from:
 
 Research/Education Experience
 ======
-* **[Sep, 2015 – June, 2017]** BS in mathematics, School of Mathematical Science, Fudan University, Shanghai, China
-* **[Sep, 2017 – June, 2019]** BS in information and computational science, School of Data Science, Fudan University, Shanghai, China
-* **[Sep, 2019 – June, 2024 (Expected)]** PhD student in statistics, School of Data Science, Fudan University, Shanghai, China
+* **[Sep, 2015 – June, 2017]** BS in Mathematics, School of Mathematical Science, Fudan University, Shanghai, China
+* **[Sep, 2017 – June, 2019]** BS in Information and Computational Science, School of Data Science, Fudan University, Shanghai, China
+* **[Sep, 2019 – June, 2024 (Expected)]** PhD student in Statistics, School of Data Science, Fudan University, Shanghai, China
 
 # Academic Services
 
