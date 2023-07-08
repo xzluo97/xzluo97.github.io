@@ -11,11 +11,11 @@ redirect_from:
 
 Research/Education Experience
 ======
-* **[Sep, 2015 – June, 2019]** BS in Mathematics (Information and Computational Science), Fudan University, Shanghai, China
+* **[Sep, 2015 – June, 2019]** BS in Mathematics (Information and Computational Science), Fudan University
   * I spent my first two years of undergraduate at the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm), and the last two years at the [School of Data Science](https://sds.fudan.edu.cn).
   * From January to June in 2018, I was an exchange student at the School of Mathematical Sciences, University of Nottingham (UK), advised by [Dr. Xin Chen](http://www.cs.nott.ac.uk/~pszxc/).
 
-* **[Sep, 2019 – June, 2024 (Expected)]** PhD student in Statistics, School of Data Science, Fudan University, Shanghai, China
+* **[Sep, 2019 – June, 2024 (Expected)]** PhD student in Statistics, School of Data Science, Fudan University
 
 # Academic Services
 
@@ -26,6 +26,8 @@ Research/Education Experience
 # Honours and Awards
 
 - National Scholarship, 2020
+
+
 
 
 
