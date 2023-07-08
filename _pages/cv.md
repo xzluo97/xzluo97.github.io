@@ -30,7 +30,7 @@ Research/Education Experience
 
 - [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis)
 - [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
-- MICCAI 2023
+- [MICCAI 2023](https://conferences.miccai.org/2023/en/)
 
 ### Advised Students
 
