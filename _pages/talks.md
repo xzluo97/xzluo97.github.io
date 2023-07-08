@@ -13,6 +13,8 @@ author_profile: true
 - **[5 Oct, 2020]** Oral presentation titled “ <u>MvMM-RegNet: A New Image Registration Framework Based on Multivariate Mixture Model and Neural Network Estimation</u>” at [MICCAI 2020](https://www.miccai2020.org/).
 - **[14 Oct, 2019]** Poster presentation titled “<u>Cardiac Segmentation from LGE MRI Using  Deep Neural Network Incorporating Shape  and Spatial Priors</u>” at [MICCAI 2019](https://www.miccai2019.org/).
 
+
+
 ## Guest Lectures
 
 - **[28 Sep, 2022]** Invited talk titled “<u>Medical Image Registration: A Brief Introduction</u>” at the course *DATA630015: Medical Image Analysis (postgrad)*.
