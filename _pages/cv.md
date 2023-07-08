@@ -40,8 +40,8 @@ Research/Education Experience
 
 # Honours and Awards
 
-- National Scholarship, 2020
 - Honourable Mention to the Francois Erbsmann Prize, IPMI 2023
+- National Scholarship, 2020
 
 
 
