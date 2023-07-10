@@ -14,7 +14,7 @@ Welcome! This is Xinzhe, currently working toward my PhD degree in Statistics wi
 
 ## News
 
-- **[June, 2023]** Our paper “BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement” is awarded **Honourable Mention to the Francois Erbsmann Prize** on IPMI 2023.
+- **[June, 2023]** Our paper “BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement” is awarded **Honourable Mention for the Francois Erbsmann Prize** on IPMI 2023.
 - **[Feb, 2023]** Our paper “BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement” has been accepted by **IPMI 2023 (Oral Presentation)**. ([Link](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_25))
 - **[Nov, 2022]** Our paper “$\mathcal{X}$-Metric: An N-Dimensional Information-Theoretic Framework for Groupwise Registration and Deep Combined Computing” has been accepted by **TPAMI**. ([Link](https://ieeexplore.ieee.org/abstract/document/9965747/), [Code](https://github.com/xzluo97/X-metric))
 - **[July, 2022]** Our paper “Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge” has been accepted by **MedIA**. ([Link](https://www.sciencedirect.com/science/article/pii/S136184152200175X))
