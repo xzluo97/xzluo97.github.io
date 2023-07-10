@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=l-oyIaAAAAAJ&hl=en"
   email            : "xzluo19@fudan.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Xinzhe-Luo-2"
+  researchgate     : # "https://www.researchgate.net/profile/Xinzhe-Luo-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LuoXinzhe"
+  twitter          : # "LuoXinzhe"
   vine             :
   weibo            :
   xing             :
