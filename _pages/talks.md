@@ -21,3 +21,9 @@ author_profile: true
 - **[19 Dec, 2021]** Invited talk titled “<u>Mutual-Information Medical Image Registration: Theory and Examples</u>” at the course *DATA630015: Medical Image Analysis (postgrad)*. ([resources, including lecture notes and codes](https://github.com/xzluo97/mutual-information-registration))
 - **[25 Dec, 2020]** Invited talk titled “<u>Multivariate Mixture Model for Myocardial  Segmentation Combining Multi-Source Images</u>” at the course *DATA630015: Medical Image Analysis (postgrad)*. ([resources, including lecture notes and codes](https://github.com/xzluo97/MvMM-Demo))
 - **[20 Nov, 2019]** Presentation titled “<u>Medical Image Registration: Diffeomorphic Demons</u>” at the course *DATA630015: Medical Image Analysis (postgrad)*. ([resources, including lecture notes and codes](https://github.com/xzluo97/Diffeomorphic-demons))
+
+
+
+> “The greatest thing a human soul ever does in this world is to see something and tell what it saw in a plain way… To see clearly is poetry, prophecy and religion, all in one.”
+>
+> —by John Ruskin
