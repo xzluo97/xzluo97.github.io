@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A copy of my CV can be found [here](https://github.com/xzluo97/xzluo97.github.io/blob/master/_cv/CV.pdf).
+
 Research/Education Experience
 ======
 * **[Sep, 2015 – Jun, 2019]** BS in Mathematics (Information and Computational Science), Fudan University
