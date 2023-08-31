@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is Xinzhe, currently working toward my PhD degree in Statistics with the [School of Data Science, Fudan University](https://sds.fudan.edu.cn/), advised by Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/). My research interests involve the interdisciplinary area of medical image computing, statistics, artificial intelligence, and mathematics. I am currently working on using statistical modelling and machine learning techniques to achieve multi-modal groupwise image analysis, including groupwise registration and combined computing of cardiac, brain, and abdominal medical images.
+Welcome! This is Xinzhe, currently working toward my PhD degree in Statistics with the [School of Data Science, Fudan University](https://sds.fudan.edu.cn/), advised by Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/). My research interests involve the interdisciplinary area of medical image computing, statistics, artificial intelligence, and mathematics. I am currently working on using statistical modelling and machine learning techniques to achieve multi-modal groupwise image analysis, including groupwise registration and combined computing of cardiac, brain, and abdominal medical images. I am also interested in Bayesian and geometric deep learning with their applications in image analysis and understanding.
 
 
 
