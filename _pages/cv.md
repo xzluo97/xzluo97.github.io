@@ -22,8 +22,10 @@ Research/Education Experience
 
 # Honours and Awards
 
+- IEEE TMI Distinguished Reviewer 2022-2023
+- China National Scholarship, 2023
 - Honourable Mention for the Francois Erbsmann Prize, IPMI 2023
-- National Scholarship, 2020
+- China National Scholarship, 2020
 
 
 
