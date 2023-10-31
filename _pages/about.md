@@ -14,6 +14,8 @@ Welcome! This is Xinzhe, currently working toward my PhD degree in Statistics wi
 
 ## News
 
+- **[Oct, 2023]** I was awarded as a distinguished reviewer for IEEE Transactions on Medical Imaging.
+- **[Oct, 2023]** I was awarded the China National Scholarship for PhD students 2023.
 - **[June, 2023]** Our paper “BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement” is awarded **Honourable Mention for the Francois Erbsmann Prize** on IPMI 2023.
 - **[Feb, 2023]** Our paper “BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement” has been accepted by **IPMI 2023 (Oral Presentation)**. ([Link](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_25))
 - **[Nov, 2022]** Our paper “$\mathcal{X}$-Metric: An N-Dimensional Information-Theoretic Framework for Groupwise Registration and Deep Combined Computing” has been accepted by **TPAMI**. ([Link](https://ieeexplore.ieee.org/abstract/document/9965747/), [Code](https://github.com/xzluo97/X-metric))
