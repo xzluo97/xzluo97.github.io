@@ -13,7 +13,7 @@ author_profile: true
 
 ## Preprint
 
-* **Xinzhe Luo\***, Xin Wang\*, Linda Shapiro, Chun Yuan, Jianfeng Feng, and Xiahai Zhuang. "Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry." arXiv preprint arXiv: 2401.02141.
+* **Xinzhe Luo\***, Xin Wang\*, Linda Shapiro, Chun Yuan, Jianfeng Feng, and Xiahai Zhuang. "Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry." arXiv preprint arXiv: 2401.02141. ([Link](https://arxiv.org/abs/2401.02141))
 
 ## Journal Articles
 
