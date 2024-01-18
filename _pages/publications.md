@@ -7,7 +7,7 @@ author_profile: true
 
  You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=l-oyIaAAAAAJ&hl=en).
 
-*\* denotes equal contribution.*
+**Note:** *\* denotes equal contribution.*
 
 {% include base_path %}
 
