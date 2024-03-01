@@ -14,6 +14,7 @@ Welcome! This is Xinzhe, currently working toward my PhD degree in Statistics wi
 
 ## News
 
+- **[Feb, 2024]** I will join the Imperial College London as a post-doctoral research associate.
 - **[Oct, 2023]** I was awarded as a distinguished reviewer for IEEE TMI.
 - **[Oct, 2023]** I was awarded the China National Scholarship 2023 for PhD students.
 - **[June, 2023]** Our paper “BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement” is awarded **Honourable Mention for the Francois Erbsmann Prize** on IPMI 2023.
