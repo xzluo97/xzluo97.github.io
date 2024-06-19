@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinzhe Luo"
 title_separator          : "-"
 name                     : &name "Xinzhe Luo"
-description              : &description "PhD Candidate at Fudan University"
+description              : &description "Postdoctoral Researcher at Imperial College London"
 url                      : https://xzluo97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzluo97.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xinzhe Luo"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Statistics at Fudan University"
-  location         : "Shanghai, China"
+  bio              : "Postdoctoral Researcher at Imperial College London"
+  location         : "London, United Kingdom"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=l-oyIaAAAAAJ&hl=en"
-  email            : "xzluo19@fudan.edu.cn"
+  email            : "x.luo@imperial.ac.uk"
   researchgate     : # "https://www.researchgate.net/profile/Xinzhe-Luo-2"
   uri              :
   bitbucket        :
