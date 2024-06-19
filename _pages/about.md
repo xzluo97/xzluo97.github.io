@@ -15,6 +15,7 @@ Welcome! This is Xinzhe. I am a postdoctoral researcher at the [Department of El
 ## News
 
 - **[June, 2024]** One paper accepted by MICCAI 2024.
+- **[May, 2024]** I passed my PhD viva!
 - **[Feb, 2024]** I will join the Imperial College London as a post-doctoral research associate.
 - **[Oct, 2023]** I was awarded as a distinguished reviewer for IEEE TMI.
 - **[Oct, 2023]** I was awarded the China National Scholarship 2023 for PhD students.
