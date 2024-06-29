@@ -15,12 +15,12 @@ author_profile: true
 
 ### Scientific Reviewer
 
+- [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis)
 - [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
-- [MICCAI 2023](https://conferences.miccai.org/2023/en/)
+- [MICCAI 2023](https://conferences.miccai.org/2023/en/), [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
 ### Advised Students
 
 - [Xin Wang](https://wxdrizzle.github.io/), University of Washington
-
 
