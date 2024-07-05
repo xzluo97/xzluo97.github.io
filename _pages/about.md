@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is Xinzhe. I am a postdoctoral researcher at the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/) & [I-X](https://ix.imperial.ac.uk/), Imperial College London, working with [Dr. Chen Qin](https://cq615.github.io), [Dr. Yingzhen Li](http://yingzhenli.net/home/en/), and [Prof. Ben Glocker](https://profiles.imperial.ac.uk/b.glocker). Previously, I obtained my PhD degree in Statistics from the [School of Data Science, Fudan University](https://sds.fudan.edu.cn/), advised by Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/). My research interests involve the interdisciplinary area of medical image computing, statistics, artificial intelligence, and mathematics. Currently, I am focusing on trustworthy AI for MRI reconstruction.
+Welcome! This is Xinzhe. I am a postdoctoral researcher at the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/) & [I-X](https://ix.imperial.ac.uk/), Imperial College London, working with [Dr. Chen Qin](https://cq615.github.io), [Dr. Yingzhen Li](http://yingzhenli.net/home/en/), and [Prof. Ben Glocker](https://profiles.imperial.ac.uk/b.glocker). Previously, I obtained my PhD degree in Statistics from Fudan University. My research interests involve the interdisciplinary area of medical image computing, statistics, artificial intelligence, and mathematics. Currently, I am focusing on trustworthy AI for MRI reconstruction.
 
 
 
