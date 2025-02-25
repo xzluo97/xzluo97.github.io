@@ -14,7 +14,7 @@ Welcome! This is Xinzhe. I am a postdoctoral researcher at the [Department of El
 
 ## News
 
-- **[Feb, 2025]** One paper accepted by IPMI 2025: "Unsupervised Accelerated MRI Reconstruction via Ground-Truth-Free Flow Matching".
+- **[Feb, 2025]** One paper accepted by IPMI 2025: "Unsupervised Accelerated MRI Reconstruction via Ground-Truth-Free Flow Matching". ([Link](http://arxiv.org/abs/2502.17174))
 - **[June, 2024]** One paper accepted by MICCAI 2024: "Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning".
 - **[May, 2024]** Successfully defended my PhD thesis: "Multi-Modality Medical Image Groupwise Combined Computing Based on Explicit Modelling"!
 - **[Feb, 2024]** I will join the Imperial College London as a post-doctoral research associate.

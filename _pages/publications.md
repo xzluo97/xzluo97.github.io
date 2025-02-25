@@ -24,6 +24,7 @@ author_profile: true
 
 ## Conference Papers
 
+- **Xinzhe Luo**, Yingzhen Li, and Chen Qin: "Unsupervised Accelerated MRI Reconstruction via Ground-Truth-Free Flow." International Conference on Information Processing in Medical Imaging (IPMI 2025). ([Link](http://arxiv.org/abs/2502.17174))
 - Bomin Wang*, **Xinzhe Luo\***, and Xiahai Zhuang: "Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning." International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024). ([Link](http://arxiv.org/abs/2406.17575), [Code](https://github.com/xzluo97/Continual-Reg)).
 - Xin Wang\*, **Xinzhe Luo\***, and Xiahai Zhuang: "BInGo: Bayesian intrinsic groupwise registration via explicit hierarchical disentanglement." International Conference on Information Processing in Medical Imaging (IPMI 2023, **Oral presentation**, **Honourable Mention for the Francois Erbsmann Prize**). ([Link](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_25))
 - **Xinzhe Luo**, and Xiahai Zhuang: "MvMM-RegNet: A new image registration framework based on multivariate mixture model and neural network estimation." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2020. ([Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_15), [Code](https://github.com/xzluo97/MvMM-RegNet))
