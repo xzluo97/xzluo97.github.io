@@ -15,6 +15,7 @@ author_profile: true
 
 ### Scientific Reviewer
 
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 - [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis)
 - [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
