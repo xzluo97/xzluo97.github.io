@@ -14,6 +14,7 @@ Welcome! This is Xinzhe. I am a postdoctoral researcher at the [Department of El
 
 ## News
 
+- **[Feb, 2025]** One paper accepted by CVPR 2025: "STiL: Semi-supervised Tabular-Image Learning for Comprehensive Task-Relevant Information Exploration in Multimodal Classification" ([Link](https://arxiv.org/abs/2503.06277))
 - **[Feb, 2025]** One paper accepted by IPMI 2025: "Unsupervised Accelerated MRI Reconstruction via Ground-Truth-Free Flow Matching" **(Oral Presentation)**. ([Link](http://arxiv.org/abs/2502.17174))
 - **[June, 2024]** One paper accepted by MICCAI 2024: "Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning".
 - **[May, 2024]** Successfully defended my PhD thesis: "Multi-Modality Medical Image Groupwise Combined Computing Based on Explicit Modelling"!
