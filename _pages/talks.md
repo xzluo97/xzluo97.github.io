@@ -17,6 +17,7 @@ author_profile: true
 
 ## Guest Lectures
 
+- **[13 Mar, 2025]** "<u>Tutorial on Generative Models for Inverse Problem</u>s" at the *Computational Statistics and Machine Learning reading group*, Imperial College London.
 - **[25 Feb, 2025]** "<u>Uncertainty Quantification in Medical Imaging</u>" at the course *Trustworthy Artificial Intelligence in Medical Imaging*, Imperial College London.
 - **[28 Sep, 2022]** “<u>Medical Image Registration: A Brief Introduction</u>” at the course *DATA630015: Medical Image Analysis (postgrad)*, Fudan University.
 - **[19 Dec, 2021]** “<u>Mutual-Information Medical Image Registration: Theory and Examples</u>” at the course *DATA630015: Medical Image Analysis (postgrad)*, Fudan University. ([resources, including lecture notes and codes](https://github.com/xzluo97/mutual-information-registration))
