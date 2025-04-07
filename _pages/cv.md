@@ -13,7 +13,7 @@ A copy of my CV can be found [here](https://github.com/xzluo97/xzluo97.github.io
 
 Research/Education Experience
 ======
-* **[June, 2024 – Now]** Postdoctoral Research Associate, Department of Electrical and Electronic Engineering and I-X Centre for AI in Science, Imperial College London.
+* **[June, 2024 – Now]** Postdoctoral Research Associate, Department of Electrical and Electronic Engineering and I-X, Imperial College London.
 * **[Sep, 2019 – Jun, 2024]** PhD in Statistics, School of Data Science, Fudan University. Advisor: [Prof. Xiahai Zhuang](https://zmiclab.github.io/zxh/).
 * **[Sep, 2015 – Jun, 2019]** BSc in Mathematics (Computational and Applied Mathematics), Fudan University.
   * I spent my first two years of undergraduate at the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm), and the last two years at the [School of Data Science](https://sds.fudan.edu.cn).
