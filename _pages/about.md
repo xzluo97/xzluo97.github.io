@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Imperial College London</a>. London, United Kingdom.
+subtitle: Imperial College London, London, United Kingdom.
 
 profile:
   align: right
