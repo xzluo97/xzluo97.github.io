@@ -13,6 +13,11 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+```
+<p>* denotes equal contribution</p>
+<p>An up-to-date list is available on <a href="https://scholar.google.co.uk/citations?user=l-oyIaAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
+```
+
 <div class="publications">
 
 {% bibliography %}
