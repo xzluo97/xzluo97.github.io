@@ -151,8 +151,9 @@ collections:
     output: true
   projects:
     output: true
-  latest_posts:
-    enabled: false
+
+latest_posts:
+  enabled: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
