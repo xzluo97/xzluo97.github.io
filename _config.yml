@@ -151,6 +151,8 @@ collections:
     output: true
   projects:
     output: true
+  latest_posts:
+    enabled: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -263,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Xinzhe]
-  first_name: [Luo]
+  last_name: [Luo]
+  first_name: [Xinzhe]
 
   style: apa
   locale: en
