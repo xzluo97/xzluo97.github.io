@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-one-paper-accepted-by-ipmi-2025-unsupervised-accelerated-mri-reconstruction-via-ground-truth-free-flow-matching-oral-presentation-link",
+          title: 'One paper accepted by IPMI 2025: “Unsupervised Accelerated MRI Reconstruction via Ground-Truth-Free Flow...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-accepted-by-cvpr-2025-stil-semi-supervised-tabular-image-learning-for-comprehensive-task-relevant-information-exploration-in-multimodal-classification-link",
+          title: 'One paper accepted by CVPR 2025: “STiL: Semi-supervised Tabular-Image Learning for Comprehensive Task-Relevant...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-one-paper-accepted-by-ieee-tpami-bayesian-unsupervised-disentanglement-of-anatomy-and-geometry-for-deep-groupwise-image-registration-link",
+          title: 'One paper accepted by IEEE TPAMI: “Bayesian Unsupervised Disentanglement of Anatomy and Geometry...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
